@@ -1,7 +1,7 @@
 <?php
 
 return [
-    
+
     /*
     |--------------------------------------------------------------------------
     | Kimlik Kontrol Metinleri
@@ -13,8 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Girilmiş olan kullanıcı verileri sistemdekiler ile eşleşmemektedir.',
-    'password' => 'Girilen parola yanlış.',
-    'throttle' => 'Çok fazla oturum açma girişiminde bulundunuz. Lütfen :seconds saniye sonra tekrar deneyiniz.',
-
+    'failed' => 'Verilen bilgiler kayıtlarımızla eşleşmiyor.',
+    'password' => 'Girilen şifre yanlış.',
+    'throttle' => 'Çok fazla giriş denemesi yapıldı. Lütfen :seconds saniye sonra yeniden deneyin.',
 ];
