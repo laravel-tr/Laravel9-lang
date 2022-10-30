@@ -7,9 +7,9 @@
 
 #### Dosyaların kopyalanması
 
-`tr/` dizinini `/resources/lang/` dizini içerisine kopyalayınız, sonuç olarak `/resources/lang/tr/` şeklinde olacaktır.
+`tr/` dizinini `/lang/` dizini içerisine kopyalayınız, sonuç olarak `/lang/tr/` şeklinde olacaktır.
 
-`tr.json` dosyasını `/resources/lang/` dizini içerisine kopyalayınız, sonuç olarak `/resources/lang/tr.json` şeklinde olacaktır.
+`tr.json` dosyasını `/lang/` dizini içerisine kopyalayınız, sonuç olarak `/lang/tr.json` şeklinde olacaktır.
 
 #### Laravel yazılımını Türkçe dilde kullanma
 
